@@ -1,0 +1,3 @@
+# LazyCollectionHibernate
+
+@LazyCollection in Hibernate
